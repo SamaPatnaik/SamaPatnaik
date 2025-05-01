@@ -1,5 +1,8 @@
 email:  samapatnaik22@gmail.com
+
 linkedin: https://www.linkedin.com/in/sama-patnaik-191319229/
+
+devpost: https://devpost.com/samapatnaik22?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 - 👋 hi, i’m sama
 - 👀 currently interested in data and web dev
